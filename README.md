@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/letscontrolit/ESPEasy)
+
 # ESPEasy (v2.0 stable branch)
 
 Build status: [![Build Status](https://travis-ci.org/letscontrolit/ESPEasy.svg?branch=v2.0)](https://travis-ci.org/letscontrolit/ESPEasy)
